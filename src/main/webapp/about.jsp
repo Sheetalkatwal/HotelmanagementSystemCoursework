@@ -79,10 +79,10 @@
                 <div class="team-card glass">
                     <div class="team-avatar">
                         <div class="avatar-circle" data-initials="JD">
-                            <img src="${pageContext.request.contextPath}/images/team/ceo.jpg" alt="John Doe" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
+                            <img src="${pageContext.request.contextPath}/images/team/h.jpg" alt="John Doe" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
                         </div>
                     </div>
-                    <h3>John Doe</h3>
+                    <h3>Sital Katuwal</h3>
                     <p class="team-role">CEO & Founder</p>
                     <p>With over 15 years of experience in the hospitality industry, John leads our company with passion and vision.</p>
                 </div>
@@ -90,10 +90,10 @@
                 <div class="team-card glass">
                     <div class="team-avatar">
                         <div class="avatar-circle" data-initials="JS">
-                            <img src="${pageContext.request.contextPath}/images/team/cto.jpg" alt="Jane Smith" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
+                            <img src="${pageContext.request.contextPath}/images/team/niruta.jpg" alt="Jane Smith" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
                         </div>
                     </div>
-                    <h3>Jane Smith</h3>
+                    <h3>Niruta Adhikari</h3>
                     <p class="team-role">CTO</p>
                     <p>Jane brings her extensive tech expertise to ensure our platform delivers a seamless booking experience.</p>
                 </div>
@@ -101,10 +101,10 @@
                 <div class="team-card glass">
                     <div class="team-avatar">
                         <div class="avatar-circle" data-initials="RJ">
-                            <img src="${pageContext.request.contextPath}/images/team/customer.jpg" alt="Robert Johnson" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
+                            <img src="${pageContext.request.contextPath}/images/team/salin.jpg" alt="Robert Johnson" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
                         </div>
                     </div>
-                    <h3>Robert Johnson</h3>
+                    <h3>Salin Limbu</h3>
                     <p class="team-role">Customer Experience Director</p>
                     <p>Robert ensures that every customer interaction with HMS exceeds expectations.</p>
                 </div>
@@ -112,10 +112,10 @@
                 <div class="team-card glass">
                     <div class="team-avatar">
                         <div class="avatar-circle" data-initials="AM">
-                            <img src="${pageContext.request.contextPath}/images/team/marketing.jpg" alt="Alex Morgan" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
+                            <img src="${pageContext.request.contextPath}/images/team/ayush.jpg" alt="Alex Morgan" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
                         </div>
                     </div>
-                    <h3>Alex Morgan</h3>
+                    <h3>Ayush Rai </h3>
                     <p class="team-role">Marketing Director</p>
                     <p>Alex develops innovative marketing strategies to connect travelers with their perfect accommodations.</p>
                 </div>
