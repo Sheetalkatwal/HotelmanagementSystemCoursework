@@ -79,7 +79,7 @@
                 <div class="team-card glass">
                     <div class="team-avatar">
                         <div class="avatar-circle" data-initials="JD">
-                            <img src="${pageContext.request.contextPath}/images/team/h.jpg" alt="John Doe" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
+                            <img src="${pageContext.request.contextPath}/images/team/h.jpg" alt="Sital Katuwal" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
                         </div>
                     </div>
                     <h3>Sital Katuwal</h3>
@@ -90,7 +90,7 @@
                 <div class="team-card glass">
                     <div class="team-avatar">
                         <div class="avatar-circle" data-initials="JS">
-                            <img src="${pageContext.request.contextPath}/images/team/niruta.jpg" alt="Jane Smith" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
+                            <img src="${pageContext.request.contextPath}/images/team/niruta.jpg" alt="Niruta Adhikari" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
                         </div>
                     </div>
                     <h3>Niruta Adhikari</h3>
@@ -101,7 +101,7 @@
                 <div class="team-card glass">
                     <div class="team-avatar">
                         <div class="avatar-circle" data-initials="RJ">
-                            <img src="${pageContext.request.contextPath}/images/team/salin.jpg" alt="Robert Johnson" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
+                            <img src="${pageContext.request.contextPath}/images/team/salin.jpg" alt="Salin Limbu" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
                         </div>
                     </div>
                     <h3>Salin Limbu</h3>
@@ -112,7 +112,7 @@
                 <div class="team-card glass">
                     <div class="team-avatar">
                         <div class="avatar-circle" data-initials="AM">
-                            <img src="${pageContext.request.contextPath}/images/team/ayush.jpg" alt="Alex Morgan" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
+                            <img src="${pageContext.request.contextPath}/images/team/ayush.jpg" alt="Ayush Rai" class="team-photo" onerror="this.classList.add('error'); this.parentNode.classList.add('show-initials');">
                         </div>
                     </div>
                     <h3>Ayush Rai </h3>

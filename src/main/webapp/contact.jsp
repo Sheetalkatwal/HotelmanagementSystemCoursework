@@ -31,8 +31,8 @@
                             <div class="contact-icon">📞</div>
                             <div class="contact-details">
                                 <h3>Call Us</h3>
-                                <p>+1 (555) 123-4567</p>
-                                <p>Monday to Friday, 9am - 6pm EST</p>
+                                <p>+977 9812345678</p>
+                                <p>Monday to Friday, 9am - 6pm NP</p>
                             </div>
                         </div>
                         
@@ -40,8 +40,8 @@
                             <div class="contact-icon">📍</div>
                             <div class="contact-details">
                                 <h3>Visit Us</h3>
-                                <p>123 Hotel Street, Suite 456</p>
-                                <p>New York, NY 10001, USA</p>
+                                <p>123 Biratchowk, SundarHaraichha</p>
+                                <p>Nepal, Biratchowk Sundarharaicha</p>
                             </div>
                         </div>
                     </div>
@@ -114,9 +114,12 @@
     <div class="map-section glass">
         <h2>Our Location</h2>
         <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215256349542!2d-73.98784492426285!3d40.75097623440235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1689321045615!5m2!1sen!2sus" 
-                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" 
-                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+<%--            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215256349542!2d-73.98784492426285!3d40.75097623440235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1689321045615!5m2!1sen!2sus" --%>
+<%--                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" --%>
+<%--                    referrerpolicy="no-referrer-when-downgrade"></iframe>--%>
+
+
+    <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=biratchowk+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
         </div>
     </div>
 </div>
